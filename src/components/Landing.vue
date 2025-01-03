@@ -7,7 +7,7 @@
           <img src="./icons/description.png" alt="">
         </div>
         <div>
-          <h3>Diseños personalidados</h3>
+          <h3>Diseños personalizados</h3>
           <h4>A la<strong> medida</strong> del cliente</h4>
           <img src="./icons/personalizado.jpg" alt="">
         </div>
