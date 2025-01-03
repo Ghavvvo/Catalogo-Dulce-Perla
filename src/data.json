@@ -1,0 +1,77 @@
+[
+  {
+    "id" : 1,
+    "nombre" : "Bodas y Quinces",
+    "precio": "999",
+    "fotos": 6
+  },
+  {
+    "id" : 2,
+    "nombre" : "Motivos Religiosos",
+    "precio" : "999",
+    "fotos": 6
+
+  },
+  {
+    "id" : 3,
+    "nombre" : "Cake Bombón",
+    "precio" : "999",
+    "fotos": 3
+  },
+  {
+    "id" : 4,
+    "nombre" : "Otros de niñas",
+    "precio" : "999",
+    "fotos": 8
+
+  },
+  {
+    "id" : 5,
+    "nombre" : "Otros de niños",
+    "precio" : "999",
+    "fotos": 12
+  },
+  {
+    "id" : 6,
+    "nombre" : "Forma de Corazón",
+    "precio" : "999",
+    "fotos": 4
+  },
+  {
+    "id" : 7,
+    "nombre" : "Mickey",
+    "precio" : "999",
+    "fotos": 6
+  },
+  {
+    "id" : 8,
+    "nombre" : "Paw Patrol",
+    "precio" : "999",
+    "fotos": 4
+  },
+  {
+    "id" : 9,
+    "nombre" : "Mini",
+    "precio" : "999",
+    "fotos": 4
+  },
+  {
+    "id" : 10,
+    "nombre" : "Princesas",
+    "precio" : "999",
+    "fotos": 10
+  },
+  {
+    "id" : 11,
+    "nombre" : "Spiderman",
+    "precio" : "999",
+    "fotos": 6
+  },
+  {
+    "id" : 12,
+    "nombre" : "Unicornios",
+    "precio" : "999",
+    "fotos": 4
+  }
+
+]
